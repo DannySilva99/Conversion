@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Conversion\Conversion\bin\Debug\Conversion.exe.config
+C:\Users\User\source\repos\Conversion\Conversion\bin\Debug\Conversion.exe
+C:\Users\User\source\repos\Conversion\Conversion\bin\Debug\Conversion.pdb
+C:\Users\User\source\repos\Conversion\Conversion\obj\Debug\Conversion.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Conversion\Conversion\obj\Debug\Conversion.exe
+C:\Users\User\source\repos\Conversion\Conversion\obj\Debug\Conversion.pdb
